@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Đội bóng Pháp ngữ Hà Nội (ÉFHN) – nơi học sinh yêu bóng đá rèn luyện sức khỏe, giao lưu, học hỏi và kết nối cộng đồng khắp cả nước.">
+    <meta property="og:image" content="http://efhn.net/images/logo.png">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <title>Équipe Francophone Hà Nội (ÉFHN) – Đội bóng Pháp ngữ trẻ trung</title>
+    <meta name="keywords" content="đội bóng Pháp ngữ Hà Nội, Équipe Francophone Hà Nội, EFHN, bóng đá học sinh Hà Nội, Pháp ngữ Hà Nội, bóng đá khối Pháp, khối Pháp">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css/vendor.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/layerslider.css">
+    <script src="js/vendor/modernizr.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Bangers&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="wrapper">
+		<header class="header-main">
+			<div class="header-lower clearfix">
+				<div class="container">
+					<div class="row"><h1 class="logo"><a href="index.html"><img src="images/logo.svg" alt="ÉFHN | Équipe Francophone Hà Nội"></a></h1>
+						<div class="menubar">
+							<nav class="navbar">
+								<div class="nav-wrapper">
+									<div class="navbar-header">
+										<button type="button" class="navbar-toggle"><span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span></button>	
+									</div>
+									<div class="nav-menu">
+										<ul class="nav navbar-nav menu-bar">
+											<!-- TemplateBeginEditable name="MenuNav" -->MenuNav<!-- TemplateEndEditable -->
+										</ul>
+									</div>
+								</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable -->
+		<section class="sponsors bg-smallwhite">
+			<div class="container">
+				<p class="text-center">Nhà tài trợ</p>
+				<ul class="client clearfix">
+					<li><a href="https://8xwebs.net/"><img src="images/client01.png" alt="image" title="Dịch vụ thiết kế website"></a></li>
+					<li><img src="images/client02.png" alt="image" title="Chè Na - Địa chỉ: 4C Hàng Lược, Hoàn Kiếm, Hà Nội"></li>
+					<li><a href="https://www.vinextglobal.com/"><img src="images/client03.png" alt="image" title="Công ty Cổ phần Công nghệ Vinext Global"></a></li>
+					<li><img src="images/client04.png" alt="image" title="42B Nội Am, xã Nam Phù, Hà Nội"></li>
+					<li><img src="images/comingsoon.png" alt="image"></li>
+				</ul>
+			</div>
+		</section>
+	</div>
+	<script src="js/vendor/vendor.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>
