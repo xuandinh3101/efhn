@@ -10341,6 +10341,7 @@ ul.slick-dots {
   text-align: center; }
   .galleryMenu li {
     display: inline-block;
+	  margin-top: 5px;
     background-color: #b81e20; }
   .galleryMenu a {
     display: block;
