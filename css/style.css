@@ -7847,7 +7847,9 @@ h6 {
 
 .video .liveVideo {
   width: 100%;
-  height: 100%; }
+  height: 100%;
+	border: none;
+}
 
 .video-content {
   position: relative;
@@ -7949,7 +7951,7 @@ ul.videoLive {
       color: white;
       font-weight: 400;
       text-transform: uppercase;
-      border-right: 1px solid rgba(255, 255, 255, 0.7);
+      border-right: none;
       text-align: left;
       position: relative; }
       ul.videoLive li a div span {
