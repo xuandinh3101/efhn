@@ -7120,7 +7120,7 @@ h6 {
 	.players {padding: 30px 0 0 0 !important;}
 	p.gray_p {margin: 20px auto;}
 	.slideHeroes {padding: 20px 0 !important;}
-	.gallery {padding: 30px 0 !important;}
+	.gallery {padding: 20px 0 !important;}
 	p.headParagraph {margin: 20px auto;}
 	.sponsors {padding: 30px 0 !important;}
 	.matchSchedule {padding: 100px 0 0 0 !important;}
@@ -8262,7 +8262,7 @@ section {
           color: white; }
 
 .LatestNews_wrap {
-  padding: 20px 0; }
+  padding: 0; }
 
 .nav > li > a:hover, .nav > li > a:focus {
   background: transparent; }
@@ -8388,7 +8388,7 @@ section {
 
 .playerpic div {
   transition: all 0.3s ease-in-out;
-  height: 300px;
+  height: 350px;
   width: 100%;
   display: block; }
 
@@ -8463,7 +8463,7 @@ section {
 
 .wrapplayer {
   position: relative;
-  height: 260px;
+  height: 200px;
   margin-bottom: 400px; }
 
 @media screen and (min-width: 768px) {
@@ -8484,7 +8484,7 @@ section {
     z-index: 10;
     margin-top: -30px; }
     .playerFig:hover .playerpic div, .homeplayer .slick-current .playerpic div {
-      height: 400px; }
+      height: 500px; }
     .playerFig:hover .playerDetails li.playinfodetails, .homeplayer .slick-current .playerDetails li.playinfodetails {
       padding-top: 20px;
       padding-bottom: 20px;
@@ -8497,7 +8497,7 @@ section {
 
 /*-------------- gallery ----------------*/
 .gallery {
-  padding: 30px 0 70px 0;
+  padding: 30px 0 0 0;
   text-align: center; }
 
 .grid {
