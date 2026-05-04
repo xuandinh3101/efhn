@@ -381,6 +381,7 @@ $(document).ready(function () {
     if($('.boardmember').length){
         $('.boardmember').slick({
             infinite:true,
+			autoplay:true,
             slidesToShow: 3,
             slidesToScroll:1,
             dots:false,

@@ -6319,8 +6319,8 @@ h6 {
   padding-right: 15px; }
   @media (min-width: 992px) {
     .contentinner {
-      float: left;
-      width: 75%; } }
+      float: none;
+      width: 100%; } }
 
 /*------------  headingall ----------*/
 .headline01 {
@@ -7819,7 +7819,7 @@ h6 {
     opacity: 0; } }
 
 .matchSchedule {
-  padding: 150px 0 50px 0; }
+  padding: 120px 0 0 0; }
   .matchSchedule p {
     text-align: center;
     padding: 0; }
@@ -8371,7 +8371,6 @@ section {
         width: 33.3333333333%; } }
 
 .players {
-  padding: 50px 0 0;
   background-image: url(../images/background/heroesBg.jpg);
   background-size: cover;
   background-position: top center;
@@ -8463,7 +8462,7 @@ section {
 
 .wrapplayer {
   position: relative;
-  height: 200px;
+  height: 100px;
   margin-bottom: 400px; }
 
 @media screen and (min-width: 768px) {
@@ -9139,12 +9138,11 @@ a.blacklrnmore {
     float: left;
     width: 25%;
     min-height: 1px;
-    padding-left: 15px;
-    padding-right: 15px;
     position: relative;
     min-height: 1px;
     padding-left: 15px;
     padding-right: 15px;
+	  padding-top: 15px;
     text-align: center;
     font-size: 30px; }
     @media (min-width: 768px) {
@@ -9175,13 +9173,11 @@ a.blacklrnmore {
     float: left;
     width: 100%;
     min-height: 1px;
-    padding-left: 15px;
-    padding-right: 15px;
     position: relative;
     min-height: 1px;
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 22px; }
+    padding-top: 15px; }
     @media (min-width: 768px) {
       .t_info li:nth-of-type(3) {
         float: left;
