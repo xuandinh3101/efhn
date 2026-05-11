@@ -9127,7 +9127,7 @@ a.blacklrnmore {
   .ticketInfo li:nth-of-type(odd) {
     background: #454c54; }
     .ticketInfo li:nth-of-type(odd) .vs {
-      color: #b81e20; }
+      color: #fff; }
   .ticketInfo li:nth-of-type(even) {
     background: #868f98; }
 
